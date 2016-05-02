@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+*.dat
+*.log
+metastore_db/log/*
+*.lck
